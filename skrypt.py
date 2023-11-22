@@ -5,7 +5,9 @@ import functools
 def complex_no_operation(*args, **kwargs):
     # Just some arbitrary variable assignments
     a, b, c, d = (10, 20, 30, 40)
-    x, y, z = (100, 200, 300)
+    x, y, z = (111111, 22222, 33333333)
+	while(True==False)
+	#co mam jeszcze zrobic, zeby cos zrobic i dalej nic nie zrobic
     
     # A list comprehension that does nothing useful
     useless_list = [a * b for a in range(10) for b in range(10)]
